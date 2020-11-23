@@ -1,0 +1,184 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maria Auxilium School</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="node_modules/modern-normalize/modern-normalize.css">
+
+ 
+    <link href="img/favicon.ico" rel="icon">
+
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="lib/slick/slick.css" rel="stylesheet">
+    <link href="lib/slick/slick-theme.css" rel="stylesheet">
+</head>
+
+
+<nav>
+    <div class="logo">
+        Maria Auxilium School
+        <!--<br> <span class="title2">Girl’s Higher Sec School Kanchipuram</span> --></div>
+    <label for="btn" class="icon">
+      <span class="fa fa-bars"></span>
+    </label>
+    <input type="checkbox" id="btn">
+    <ul>
+        <li><a href="/homepage.html">Home</a></li>
+        <li>
+            <label for="btn-1" class="show">Campus life +</label>
+            <a href="#">Campus life</a>
+            <input type="checkbox" id="btn-1">
+            <ul>
+                <li><a href="#">NSS / NCC</a></li>
+                <li><a href="#">Sports</a></li>
+                <li><a href="#">Awards</a></li>
+                <li><a href="#">Celebration</a></li>
+                <li><a href="#">Gallery</a></li>
+            </ul>
+        </li>
+        <li>
+            <label for="btn-2" class="show">Admission +</label>
+            <a href="#">Admission</a>
+            <input type="checkbox" id="btn-2">
+            <ul>
+                <li><a href="#">Application Form</a></li>
+                <li><a href="#">Announcement</a></li>
+                <li><a href="#">Instructions</a></li>
+                <li>
+                    <!--
+            <label for="btn-3" class="show">More +</label>
+            <a href="#">More <span class="fa fa-plus"></span></a>
+            <input type="checkbox" id="btn-3">
+            <ul>
+<li><a href="#">Submenu-1</a></li>
+<li><a href="#">Submenu-2</a></li>
+<li><a href="#">Submenu-3</a></li>
+</ul>
+-->
+                </li>
+            </ul>
+        </li>
+        <li>
+            <label for="btn-5" class="show">Group Institiuions +</label>
+            <a href="#">Group Institiuions</a>
+            <input type="checkbox" id="btn-5">
+            <ul>
+                <li><a href="#">Bon SecoursC</a></li>
+                <li><a href="#">Primary School</a></li>
+                <li><a href="#">Children Home</a></li>
+
+            </ul>
+        </li>
+        <li><a href="#">Contact us</a></li>
+        <li><a href="#">About us</a></li>
+
+        <li>
+            <label for="btn-4" class="show">Login +</label>
+            <a href="#">Login</a>
+            <input type="checkbox" id="btn-4">
+            <ul>
+                <li><a href="#">Students</a></li>
+                <li><a href="#">Staff</a></li>
+
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+<br>
+<div>
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <div class="elfsight-app-451101d7-3163-41b0-8d90-c681d7072ae5"></div>
+</div>
+
+
+
+
+<div>
+    <p id="maptext">Meet us</p>
+    <a class="auxiliummap" href="https://goo.gl/maps/mHAdfzu1LYsE5rTAA" target="_blank"><img class="auxiliummap" src="/Images/maria school map screen shot.png" alt="Maria Auxilium School Map" </a>
+</div>
+<br>
+
+<section class="mainfooter">
+    <div class="footer">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <h2>Get in Touch</h2>
+                        <div class="contact-info">
+                            <p><i class="fa fa-map-marker"></i>81, Kamarajar St, Ennaikaran, Kanchipuram ,Tamil Nadu 631501.</p>
+                            <p><i class="fa fa-envelope"></i>contact@mariaauxiliumschool.com</p>
+                            <p><i class="fa fa-phone"></i>123-456-7890</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <h2>Follow Us</h2>
+                        <div class="contact-info">
+                            <div class="social">
+                                <a href=""><i class="fab fa-twitter"></i></a>
+                                <a href=""><i class="fab fa-facebook-f"></i></a>
+                                <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href=""><i class="fab fa-youtube"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <h2></h2>
+                        <ul>
+                            <li><a class="footerlinks" href="#">About Us</a></li>
+                            <li><a class="footerlinks" href="#">Contact us</a></li>
+                            <li><a class="footerlinks" href="#">Carrers</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-widget">
+                        <h2></h2>
+                        <ul>
+                            <li><a href="#">Application Form</a></li>
+                            <li><a href="#">Celebration</a></li>
+                            <li><a href="#">Gallery</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+ 
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 copyright">
+                    <p>Copyright &copy;
+                        <a href=""></a> 2020 All Rights Reserved</p>
+                </div>
+
+                <div class="col-md-6 powered-by">
+                    <p>Digital Transformation Powered by <a href="#">Techibeat.com</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!----Footer end here. --->
+<script>
+    $('.icon').click(function() {
+        $('span').toggleClass("cancel");
+    });
+</script>
